@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    padding: 10px;
+    margin: 0;
+    background-color: #0244AB;
+    color: #ADADAD;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;  
+}
+
+
+h1 {
+    padding: 10px;
+    margin: 0; 
+}
+
+
+h3{
+	color: white;
+}
+
+
+address {
+	margin: 0;
+	padding: 0;
+	color: #333131;
+}
+
+
+hr{
+	border-top: 2.5px dotted black
+}
+
+
+img{
+ 	border-radius: 15px;
+ 	margin: 4px;
+}
+
+
+a:link {
+  color: #C40303;
+}
+
+
+a:hover {
+  color: darkblue;
+}
+
+
+footer{
+ 	  margin: 0;
+ 	  padding: 0;
+}
